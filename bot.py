@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, ContextTypes, filters
 import fal_client
 
-BOT_TOKEN = os.environ["AAEhdjp1qWlRf0eJ79gTbLyDDCTkXWyKohY"]
+BOT_TOKEN = os.environ[8925475804:AAHT-ZshDDkP8iZEIBZAdF8y7AbMtbiRCTU]
 FAL_KEY = os.environ["d060dc8b-22ff-45d2-896b-04f890f8f3b3:ca65cadf7738fcd19678087fbbec8500"]
 
 
